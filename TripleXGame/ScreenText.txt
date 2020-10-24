@@ -1,0 +1,13 @@
+This is your next challenge
+
+The code has three digits.
+The three digits add up to $SUM.
+The multiplication of the three digits is $MUL.
+
+2 3 4
+
+You did it! Move on to the next level. || Wrong Password! Try Again!			//If there are more tries
+
+You beat the game!																//If you pass the last level
+
+You got caught!																	//If you run out of tries
